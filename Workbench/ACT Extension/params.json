@@ -1,0 +1,17 @@
+{
+    "Template_Directory": "C:\\Users\\brandon.schroder\\Desktop\\Local CFD\\ACT Test\\V2_files\\user_files",
+    "Project_Directory": "C:\\Users\\brandon.schroder\\Desktop\\Local CFD\\ACT Test\\V2_files",
+    "Extension_Name": "MK",
+    "BG_Directory": "BG",
+    "BG_Name": "Diffuser Baseline.bgd",
+    "Template_Name": "BG_Template.bgd",
+    "Num_Blades": "15",
+    "Theta_0_LE": "0",
+    "Theta_1_LE": "-4.5",
+    "Beta_0_LE": "64",
+    "Beta_1_LE": "73",
+    "Theta_0_TE": "58",
+    "Theta_1_TE": "59",
+    "Beta_0_TE": "5",
+    "Beta_1_TE": "0"
+}
